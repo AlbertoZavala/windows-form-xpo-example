@@ -1,0 +1,14 @@
+D:\Repositorios\windows-form-xpo-example\WindowsFormsXpoExample\bin\Debug\WindowsFormsXpoExample.exe.config
+D:\Repositorios\windows-form-xpo-example\WindowsFormsXpoExample\bin\Debug\WindowsFormsXpoExample.exe
+D:\Repositorios\windows-form-xpo-example\WindowsFormsXpoExample\bin\Debug\WindowsFormsXpoExample.pdb
+D:\Repositorios\windows-form-xpo-example\WindowsFormsXpoExample\bin\Debug\DevExpress.Data.v20.1.dll
+D:\Repositorios\windows-form-xpo-example\WindowsFormsXpoExample\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\Repositorios\windows-form-xpo-example\WindowsFormsXpoExample\bin\Debug\DevExpress.Data.v20.1.xml
+D:\Repositorios\windows-form-xpo-example\WindowsFormsXpoExample\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\Repositorios\windows-form-xpo-example\WindowsFormsXpoExample\obj\Debug\WindowsFormsXpoExample.csprojAssemblyReference.cache
+D:\Repositorios\windows-form-xpo-example\WindowsFormsXpoExample\obj\Debug\WindowsFormsXpoExample.Properties.Resources.resources
+D:\Repositorios\windows-form-xpo-example\WindowsFormsXpoExample\obj\Debug\WindowsFormsXpoExample.csproj.GenerateResource.cache
+D:\Repositorios\windows-form-xpo-example\WindowsFormsXpoExample\obj\Debug\WindowsFormsXpoExample.csproj.CoreCompileInputs.cache
+D:\Repositorios\windows-form-xpo-example\WindowsFormsXpoExample\obj\Debug\WindowsFormsXpoExample.csproj.CopyComplete
+D:\Repositorios\windows-form-xpo-example\WindowsFormsXpoExample\obj\Debug\WindowsFormsXpoExample.exe
+D:\Repositorios\windows-form-xpo-example\WindowsFormsXpoExample\obj\Debug\WindowsFormsXpoExample.pdb
